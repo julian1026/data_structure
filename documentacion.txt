@@ -1,0 +1,31 @@
+===Estrtuctura de datos===
+las estructuras de datos son colecciones de valores,
+las relaciones entre ellos y las funciones u operaciones
+que se pueden aplicar a los datos.
+
+===memoria y como se guardan los datos=====
+memory slot
+
+===array o listas==
+ estaticos o dinamicos
+ 
+===string======
+Los string son inmutables
+
+===Hash Tables============
+{key : value}
+methods==>
+	insert
+	search
+	delete
+
+	colision de hash Tables  
+
+
+=====linked list=======
+methods
+	prepend
+	append
+	search
+	insert
+	delete
